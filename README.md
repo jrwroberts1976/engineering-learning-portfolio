@@ -24,6 +24,85 @@ Currently developing skills in:
 - Kubernetes
 - Monitoring
 - Security automation
+- AI-assisted automation
+
+---
+
+# Engineering Projects
+
+## AWS Cloud Platform
+
+A production-style cloud infrastructure project demonstrating modern
+cloud engineering and DevOps practices.
+
+This project focuses on building and managing AWS infrastructure using
+Infrastructure as Code, automation and configuration management.
+
+Repository:
+
+https://github.com/jrwroberts1976/cloud-platform
+
+
+### Technologies
+
+- AWS
+- Terraform
+- Ansible
+- Linux
+- Git
+- Infrastructure as Code (IaC)
+- Docker
+- Monitoring
+- Security automation
+
+
+### Project Highlights
+
+- Designed AWS infrastructure using Terraform
+- Created reusable Terraform modules
+- Implemented remote Terraform state management
+- Built structured environments for development and testing
+- Automated server configuration using Ansible
+- Applied cloud networking and security best practices
+- Documented architecture and deployment processes
+- Developed repeatable infrastructure deployment workflows
+
+
+---
+
+## Kubernetes Homelab
+
+A practical Kubernetes learning environment running on local hardware.
+
+This project provides hands-on experience with container orchestration,
+deployment management and cloud-native technologies.
+
+Repository:
+
+https://github.com/jrwroberts1976/kubernetes-homelab
+
+
+### Technologies
+
+- Kubernetes
+- k3s
+- Docker
+- Helm
+- Linux
+- Container networking
+- Monitoring
+- Application deployment
+
+
+### Project Highlights
+
+- Built and maintained a Kubernetes cluster
+- Deployed containerised applications
+- Managed workloads using Kubernetes manifests
+- Used Helm for application deployment
+- Implemented monitoring and operational practices
+- Developed practical cloud-native administration skills
+
 
 ---
 
@@ -62,6 +141,7 @@ Topics covered:
 - Commits
 - Pull requests
 - Repository management
+- Collaboration workflows
 
 Repository:
 
@@ -82,6 +162,7 @@ Topics covered:
 - Networking
 - Identity
 - Infrastructure services
+- Cloud administration
 
 Repository:
 
@@ -101,6 +182,7 @@ Topics covered:
 - Entra ID concepts
 - Administration
 - Security
+- User management
 
 Repository:
 
@@ -111,7 +193,7 @@ https://github.com/jrwroberts1976/microsoft-365
 
 ## AI Automation Engineering
 
-Exploring automation using AI-assisted tools and DevOps workflows.
+Exploring automation using AI-assisted tools and modern DevOps workflows.
 
 Topics covered:
 
@@ -119,32 +201,11 @@ Topics covered:
 - Workflow automation
 - CI/CD integration
 - Infrastructure automation
+- Automation engineering practices
 
 Repository:
 
 https://github.com/jrwroberts1976/AI-Automation-Engineering-Training
-
-
----
-
-# Engineering Projects
-
-## Kubernetes Homelab
-
-A practical Kubernetes learning environment.
-
-Technologies:
-
-- Kubernetes
-- k3s
-- Docker
-- Helm
-- Linux
-- Monitoring
-
-Repository:
-
-https://github.com/jrwroberts1976/kubernetes-homelab
 
 
 ---
@@ -158,13 +219,16 @@ https://github.com/jrwroberts1976/kubernetes-homelab
 | Docker | Active |
 | Kubernetes | Active |
 | Terraform | Active |
+| Ansible | Active |
 | AWS | Active |
 | Azure | Learning |
 | Microsoft 365 | Learning |
 | CI/CD | Learning |
+| GitHub Actions | Planned |
 | Jenkins | Planned |
 | AI Automation | Active |
 | Monitoring | Active |
+| Cloud Security | Learning |
 
 ---
 
@@ -173,13 +237,15 @@ https://github.com/jrwroberts1976/kubernetes-homelab
 Future areas:
 
 - Jenkins pipelines
-- GitHub Actions
-- Advanced Terraform
+- GitHub Actions workflows
+- Advanced Terraform patterns
 - Ansible automation
 - Kubernetes deployments
+- Helm application management
 - Cloud security
 - DevSecOps practices
 - AI-driven infrastructure automation
+- Enterprise monitoring solutions
 
 ---
 
@@ -187,5 +253,8 @@ Future areas:
 
 This portfolio documents my transition and continued development
 towards modern cloud engineering and DevOps practices, combining
-20+ years of infrastructure experience with current automation
-and cloud technologies.
+20+ years of infrastructure experience with current automation,
+cloud technologies and hands-on engineering projects.
+
+The aim is to demonstrate practical skills through real-world projects,
+structured learning paths and documented technical implementations.
