@@ -30,7 +30,7 @@ Currently developing skills in:
 
 # Engineering Projects
 
-## AWS Cloud Platform
+# AWS Cloud Platform
 
 A production-style cloud infrastructure project demonstrating modern
 cloud engineering and DevOps practices.
@@ -145,7 +145,7 @@ Topics covered:
 
 Repository:
 
-https://github.com/jrwroberts1976/beginners-git
+https://github.com/jrwroberts1976/git-training
 
 
 ---
