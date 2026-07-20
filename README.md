@@ -24,6 +24,7 @@ Currently developing skills in:
 - Kubernetes
 - Monitoring
 - Security automation
+- API integration
 - AI-assisted automation
 
 ---
@@ -54,6 +55,7 @@ https://github.com/jrwroberts1976/cloud-platform
 - Docker
 - Monitoring
 - Security automation
+- APIs
 
 
 ### Project Highlights
@@ -210,6 +212,61 @@ https://github.com/jrwroberts1976/AI-Automation-Engineering-Training
 
 ---
 
+## Beginner API Training
+
+A structured API learning path covering the fundamentals required
+to understand, test and automate modern API integrations.
+
+This training develops practical API skills used across cloud platforms,
+DevOps tooling, automation workflows and infrastructure engineering.
+
+Topics covered:
+
+- API fundamentals
+- REST APIs
+- HTTP methods
+- HTTP status codes
+- JSON data
+- API testing
+- curl
+- Postman
+- Authentication
+- Python API automation
+- Cloud APIs
+- API security
+
+
+Repository:
+
+https://github.com/jrwroberts1976/api-training
+
+
+### Technologies
+
+- REST APIs
+- HTTP
+- JSON
+- curl
+- Postman
+- Python
+- AWS APIs
+- Azure APIs
+- Microsoft Graph API
+- Automation workflows
+
+
+### Skills Developed
+
+- Reading API documentation
+- Testing API endpoints
+- Troubleshooting API communication
+- Creating API automation scripts
+- Integrating cloud services
+- Building automation workflows
+
+
+---
+
 # Skills Matrix
 
 | Technology | Status |
@@ -223,12 +280,16 @@ https://github.com/jrwroberts1976/AI-Automation-Engineering-Training
 | AWS | Active |
 | Azure | Learning |
 | Microsoft 365 | Learning |
+| APIs | Learning |
+| REST APIs | Learning |
+| Python Automation | Learning |
 | CI/CD | Learning |
 | GitHub Actions | Planned |
 | Jenkins | Planned |
 | AI Automation | Active |
 | Monitoring | Active |
 | Cloud Security | Learning |
+
 
 ---
 
@@ -238,6 +299,7 @@ Future areas:
 
 - Jenkins pipelines
 - GitHub Actions workflows
+- API-driven automation
 - Advanced Terraform patterns
 - Ansible automation
 - Kubernetes deployments
@@ -246,6 +308,8 @@ Future areas:
 - DevSecOps practices
 - AI-driven infrastructure automation
 - Enterprise monitoring solutions
+- Advanced cloud integrations
+
 
 ---
 
